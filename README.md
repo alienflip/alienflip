@@ -1,4 +1,4 @@
-### Hi there, I'm Kai 👋
+### Hi there, Kai here 👋
 
 - 🔭 I’m currently working on ... OpenCL GPU technology
 - 🌱 I’m currently learning ... Algorand development
