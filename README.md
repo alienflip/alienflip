@@ -6,6 +6,7 @@
 - 📫 How to reach me: ... check out my [site](https://yeetbucks.com)
 - ⚡ Fun fact: ... 
 
+```
 ✨ Bitcoin : 39R6Pmy5CcSP7ZdGCnUFKda79X4VfgAiX1
 
 ✨ Ethereum : 0x863cd7e3268ee72656d9ccddc80ed446a7837c69
@@ -17,3 +18,4 @@
 ✨ Solana : AuWvhXzpUoqdeJTiVQGtDXKcJGrnTcoSFuLwT6TTNY6D
 
 ✨ DogeCoin : D6CRVAQAf3Qg3hMg8pVFHg11CRL7d9ytZ3
+```
