@@ -1,4 +1,8 @@
-### Hi there, Kai here 👋
+<h1 align="center">
+  <br>
+  Hi there, Kai here 👋
+  <br>
+</h1>
 
 - 🔭 I’m currently working on ... OpenCL GPU technology
 - 🌱 I’m currently learning ... Algorand development
