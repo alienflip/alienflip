@@ -1,8 +1,6 @@
-<h1 align="center">
-  <br>
-  Hi there, welcome 👋
-  <br>
-</h1>
+
+ ## Hi there, welcome 👋
+
 
 - 🔭 I’m currently working on ... OpenCL GPU technology
 - 🌱 I’m currently learning ... Algorand development
