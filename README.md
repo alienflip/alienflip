@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Algorand Development
 - 👯 I’m looking to collaborate on ... Anything web3!
 - 📫 How to reach me: ... check out my [site](https://yeetbucks.com)
-- ⚡ Fun fact: ... I believe in noting
+- ⚡ Fun fact: ... I believe that nothing exists . . . right?
 
 ```
 ✨ Bitcoin ----> 39R6Pmy5CcSP7ZdGCnUFKda79X4VfgAiX1
