@@ -1,8 +1,8 @@
 ### Hi there, I'm Kai 👋
 
 - 🔭 I’m currently working on ... OpenCL GPU technology
-- 🌱 I’m currently learning ... Algorand Development
-- 👯 I’m looking to collaborate on ... suprise me!
+- 🌱 I’m currently learning ... Algorand development
+- 👯 I’m looking to collaborate on ... Suprise me!
 - 📫 How to reach me: ... check out my [site](https://yeetbucks.com)
 - ⚡ Fun fact: ... nothing `really` exists . . . right?
 
