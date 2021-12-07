@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ... [OpenCL GPU technology](https://github.com/alienflip/Project-Sekhmet)
-- 🌱 I’m currently learning ... [Algorand development]
+- 🌱 I’m currently learning ... [Algorand development](https://www.algorand.com/)
 - 👯 I’m looking to collaborate on ... Suprise me!
 - 📫 How to reach me: ... Check out my [site](https://yeetbucks.com)
 - ⚡ Fun fact: ... Nothing `really` exists . . . right?
