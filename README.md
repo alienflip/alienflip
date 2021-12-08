@@ -3,7 +3,7 @@
 
 
 - 🔭 Currently working on ... [OpenCL GPU technology](https://github.com/alienflip/Project-Sekhmet)
-- 🌱 Currently learning ... Web3 development
+- 🌱 Currently learning ... [Web3](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) development
 - 👯 Looking to collaborate on ... Suprise me!
 - 📫 Get in contact: ... Check out [this place](https://yeetbucks.com)
 - ⚡ Fun fact: ... Nothing `really` exists . . . right?
