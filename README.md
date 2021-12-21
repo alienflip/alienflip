@@ -15,7 +15,6 @@
 ✨ Cardano ----> addr1qy7cwgnf0tceelz95pfpgx48pana2mvfw05u0phw8c7tzmxdf7mqclcd83eft49jx7d2s46awv8kxcgunjahguvff4ksehygfm
 🍄 Algorand ----> WWORGSNKYPTXWIFHRQHNJG2ZSH5TA4TP3HPQU6DQ57RA5OEIXH2CEOO3DA
 ✨ Solana ----> AuWvhXzpUoqdeJTiVQGtDXKcJGrnTcoSFuLwT6TTNY6D
-🍄 DogeCoin ----> D6CRVAQAf3Qg3hMg8pVFHg11CRL7d9ytZ3
+🍄 DogeCoin ----> DDR46fKj5atuv6jQKcjGeg8Hu2p5uW65te
+✨ vertcoin -> 3D9c3gvzdscKAuDPDpTgmjB287EJ9guF8G
 ```
-
-vertcoin -> `3D9c3gvzdscKAuDPDpTgmjB287EJ9guF8G`
