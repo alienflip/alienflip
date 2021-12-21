@@ -16,5 +16,5 @@
 🍄 Algorand ----> WWORGSNKYPTXWIFHRQHNJG2ZSH5TA4TP3HPQU6DQ57RA5OEIXH2CEOO3DA
 ✨ Solana ----> AuWvhXzpUoqdeJTiVQGtDXKcJGrnTcoSFuLwT6TTNY6D
 🍄 DogeCoin ----> DDR46fKj5atuv6jQKcjGeg8Hu2p5uW65te
-✨ vertcoin -> 3D9c3gvzdscKAuDPDpTgmjB287EJ9guF8G
+✨ Vertcoin -> 3D9c3gvzdscKAuDPDpTgmjB287EJ9guF8G
 ```
