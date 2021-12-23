@@ -13,8 +13,4 @@
 ✨ Bitcoin ----> bc1qvllw5t2hdjyshy74yflq662etcj8tlz44q3k8m
 🍄 Ethereum ----> 0x657B681E0672Dd08eE7A20C385E2455B50e49124
 ✨ Cardano ----> addr1qy7cwgnf0tceelz95pfpgx48pana2mvfw05u0phw8c7tzmxdf7mqclcd83eft49jx7d2s46awv8kxcgunjahguvff4ksehygfm
-🍄 Algorand ----> WWORGSNKYPTXWIFHRQHNJG2ZSH5TA4TP3HPQU6DQ57RA5OEIXH2CEOO3DA
-✨ Solana ----> AuWvhXzpUoqdeJTiVQGtDXKcJGrnTcoSFuLwT6TTNY6D
-🍄 DogeCoin ----> DDR46fKj5atuv6jQKcjGeg8Hu2p5uW65te
-✨ Vertcoin -> 3D9c3gvzdscKAuDPDpTgmjB287EJ9guF8G
 ```
