@@ -12,5 +12,6 @@
 🍄 Monero ----> (DM me)
 ✨ Bitcoin ----> bc1qvllw5t2hdjyshy74yflq662etcj8tlz44q3k8m
 🍄 Ethereum ----> 0x657B681E0672Dd08eE7A20C385E2455B50e49124
-✨ Cardano ----> addr1qy7cwgnf0tceelz95pfpgx48pana2mvfw05u0phw8c7tzmxdf7mqclcd83eft49jx7d2s46awv8kxcgunjahguvff4ksehygfm
+✨ Cardano ----> addr1q9gpzsa2dvzhl6szn78xev8sudxmtksfvg2y27tjdugd7fjvx0ujtw7dv462qxn3vrzp68w88delwz0my6mggqvhes6qganhah
+🍄 Ethereum ----> 0x657B681E0672Dd08eE7A20C385E2455B50e49124
 ```
