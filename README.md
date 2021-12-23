@@ -13,5 +13,5 @@
 ✨ Bitcoin ----> bc1qvllw5t2hdjyshy74yflq662etcj8tlz44q3k8m
 🍄 Ethereum ----> 0x657B681E0672Dd08eE7A20C385E2455B50e49124
 ✨ Cardano ----> addr1q9gpzsa2dvzhl6szn78xev8sudxmtksfvg2y27tjdugd7fjvx0ujtw7dv462qxn3vrzp68w88delwz0my6mggqvhes6qganhah
-🍄 Ethereum ----> 0x657B681E0672Dd08eE7A20C385E2455B50e49124
+🍄 Algorand ----> 6SQVJ5KRKFRE7FY7H7A7LVLFYRQYQNOSP3QJ5A2AWFRV4RJWSGW4CFAWNY
 ```
