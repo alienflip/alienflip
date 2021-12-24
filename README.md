@@ -6,7 +6,7 @@
 - 🌱 Currently learning ... [Web3](https://www.youtube.com/watch?v=j5a0jTc9S10&ab_channel=YourUncleMoe) development
 - 👯 Looking to collaborate on ... Suprise me!
 - 📫 Get in contact: ... Check out [this place](https://yeetbucks.com)
-- ⚡ Fun fact: ... Nothing `really` exists . . . right? `# meat-space denier`
+- ⚡ Fun fact: ... Nothing `really` [exists](https://www.youtube.com/watch?v=GM2DDR31-nk&ab_channel=TheWolfsonian%E2%80%93FIU) . . . right? `# meat-space denier`
 
 ```
 🍄 Monero ----> (DM me)
