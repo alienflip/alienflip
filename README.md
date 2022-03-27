@@ -22,4 +22,8 @@
 
 ### Recommended courses
 
-[Build a (virtual) computer](https://www.nand2tetris.org/)  [Create A Doo-Dad](https://www.sparkfun.com/) [Hack A Thing](https://overthewire.org/wargames/)
+> [Build a (virtual) computer](https://www.nand2tetris.org/) 
+
+> [Create A Doo-Dad](https://www.sparkfun.com/)
+
+> [Hack A Thing](https://overthewire.org/wargames/)
