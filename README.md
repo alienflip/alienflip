@@ -8,6 +8,7 @@
 
 ### Tech I can talk about for a few hours
 
+![Unity](https://img.shields.io/badge/unity-grey.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Wolfram Language](https://img.shields.io/badge/wolfram-red.svg?style=for-the-badge&logo=wolfram&logoColor=%23F7DF1E)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
