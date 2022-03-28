@@ -1,4 +1,6 @@
-# So you've wandered into my lair . . . 
+<p align="center">
+  So you've wandered into my lair . . . 
+</p>
 
 <p align="center">
 👽     
