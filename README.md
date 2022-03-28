@@ -49,9 +49,9 @@
   <a href="https://www.nand2tetris.org/">build a (virtual) computer</> <br>
   <a href="https://learn.sparkfun.com/?_ga=2.92506973.1781630498.1648479078-1801607459.1648341636">create a doo-dad</> </br>
   <a href="https://overthewire.org/wargames/">hack a thing</> </br>
-  <a href="https://www.youtube.com/watch?v=j5a0jTc9S10&ab_channel=YourUncleMoe">long term vision</> </br>
+  <a >long term vision</> </br>
 </p>
 
-<p align="center">
+<p href="https://www.youtube.com/watch?v=j5a0jTc9S10&ab_channel=YourUncleMoe" align="center">
 👽     
 </p>
