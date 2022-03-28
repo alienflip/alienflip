@@ -14,7 +14,7 @@
 
 <p align="center">
   <big>
-    Tech I can talk about for a few hours   
+    Dangerous with ...
   </big>
 </p>
 
@@ -33,7 +33,7 @@
 
 <p align="center">
     <big>
-      Tech I wish I could talk about for a few hours
+      Not yet literate with ...
     </big>
 </p>
 
