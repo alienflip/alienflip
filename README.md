@@ -33,4 +33,4 @@
 
 > [hack a thing](https://overthewire.org/wargames/)
 
-> [long term vision](https://www.youtube.com/watch?v=j5a0jTc9S10&ab_channel=YourUncleMoe)?
+> [long term vision](https://www.youtube.com/watch?v=j5a0jTc9S10&ab_channel=YourUncleMoe)
