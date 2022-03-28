@@ -24,7 +24,7 @@
    <img width="600em" src="https://github-readme-stats.vercel.app/api?username=alienflip&theme=github_dark"/>
 </p>
 
-### Fun courses
+### Fun learning materials
 
 > [build a (virtual) computer](https://www.nand2tetris.org/) 
 
