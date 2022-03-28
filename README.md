@@ -17,7 +17,7 @@ Tech I can talk about for a few hours
 </p>
 
 <p align="center">
-  <img width="100em" src="https://img.shields.io/badge/unity-grey.svg?style=for-the-badge&logo=unity&logoColor=white" />
+  <img width="100em" src="https://img.shields.io/badge/unity-grey.svg?style=for-the-badge&logo=unity&logoColor=white" /></br>
   <img width="100em" src="https://img.shields.io/badge/wolfram-red.svg?style=for-the-badge&logo=wolfram&logoColor=%23F7DF1E" />
   <img width="100em" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
   <img width="100em" src="https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -46,7 +46,7 @@ Fun learning materials
 </p>
 
 <p align="center">
-  <a href="https://www.nand2tetris.org/">build a (virtual) computer</> 
+  <a href="https://www.nand2tetris.org/">build a (virtual) computer</> <br>
   <a href="https://learn.sparkfun.com/?_ga=2.92506973.1781630498.1648479078-1801607459.1648341636">create a doo-dad</> 
   <a href="https://overthewire.org/wargames/">hack a thing</> 
   <a href="https://www.youtube.com/watch?v=j5a0jTc9S10&ab_channel=YourUncleMoe">long term vision</> 
