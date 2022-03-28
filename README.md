@@ -22,10 +22,6 @@
 </p>
 
 <p align="center">
-👽     
-</p>
-
-<p align="center">
     <big>
       Not yet literate with ...
     </big>
@@ -33,10 +29,6 @@
 
 <p align="center">
   <img width="100em" src="https://img.shields.io/badge/Rust-brown.svg?style=for-the-badge&logo=rust&logoColor=%23F7DF1E" />
-</p>
-
-<p align="center">
-👽     
 </p>
 
 <p align="center">
