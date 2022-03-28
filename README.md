@@ -1,12 +1,12 @@
 # So you've wandered into my lair . . . 
 
-👽👽👽      👽👽👽
+👽  
 
 <p align="center">
   <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alienflip&theme=github_dark" />
 </p>
 
-👽👽👽      👽👽👽
+👽     
 
 ### Tech I can talk about for a few hours
 
@@ -19,13 +19,13 @@
 ![C++](https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![PyTeal](https://img.shields.io/badge/teal-green.svg?style=for-the-badge&logo=teal&logoColor=white)
 
-👽👽👽      👽👽👽
+👽  
 
 ### Tech I wish I could talk about for a few hours
 
 ![Rust](https://img.shields.io/badge/Rust-brown.svg?style=for-the-badge&logo=rust&logoColor=%23F7DF1E)
 
-👽👽👽      👽👽👽
+👽  
 
 ### Fun learning materials
 
@@ -37,4 +37,4 @@
 
 > [long term vision](https://www.youtube.com/watch?v=j5a0jTc9S10&ab_channel=YourUncleMoe)
 
-👽👽👽      👽👽👽
+👽
