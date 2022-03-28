@@ -1,6 +1,4 @@
-<p align="center" style="font-size:30px;">
-  Welcome to my lair 👽
-</>
+# Welcome to my lair 👽
 
 <p align="center">
   <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alienflip&theme=github_dark" />
