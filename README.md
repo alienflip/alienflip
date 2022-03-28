@@ -46,7 +46,7 @@ Fun learning materials
 </p>
 
 <p align="center">
-  <p href="https://www.nand2tetris.org/">build a (virtual) computer</b> 
+  <a href="https://www.nand2tetris.org/">build a (virtual) computer</> 
   <img width="100em" text="create a doo-dad" src="https://learn.sparkfun.com/?_ga=2.92506973.1781630498.1648479078-1801607459.1648341636" />
   <img width="100em" text="hack a thing" src="https://overthewire.org/wargames/" />
   <img width="100em" text="long term vision" src="https://www.youtube.com/watch?v=j5a0jTc9S10&ab_channel=YourUncleMoe" />
