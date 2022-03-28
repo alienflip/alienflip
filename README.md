@@ -13,7 +13,9 @@
 </p>
 
 <p align="center">
-Tech I can talk about for a few hours   
+  <big>
+    Tech I can talk about for a few hours   
+  </big>
 </p>
 
 <p align="center">
@@ -30,7 +32,9 @@ Tech I can talk about for a few hours
 </p>
 
 <p align="center">
-Tech I wish I could talk about for a few hours
+    <big>
+      Tech I wish I could talk about for a few hours
+    </big>
 </p>
 
 <p align="center">
@@ -42,7 +46,9 @@ Tech I wish I could talk about for a few hours
 </p>
 
 <p align="center">
-Fun learning materials   
+  <big>
+    Fun learning materials   
+  </big>
 </p>
 
 <p align="center">
