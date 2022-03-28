@@ -20,10 +20,6 @@
 ![Rust](https://img.shields.io/badge/Rust-brown.svg?style=for-the-badge&logo=rust&logoColor=%23F7DF1E)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-green.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<p align="center">
-   <img width="600em" src="https://github-readme-stats.vercel.app/api?username=alienflip&theme=github_dark"/>
-</p>
-
 ### Fun learning materials
 
 > [build a (virtual) computer](https://www.nand2tetris.org/) 
