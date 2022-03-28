@@ -23,6 +23,7 @@ Tech I can talk about for a few hours
   <img width="100em" src="https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white" />
   <img width="100em" src="https://img.shields.io/badge/Arduino-%23007ACC.svg?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img width="100em" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img width="100em" src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c++&logoColor=black" />
 </p>
 
 <p align="center">
