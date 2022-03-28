@@ -7,6 +7,9 @@
 <p align="center">
   <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alienflip&theme=github_dark" />
 </p>
+<p align="center">
+   <img width="600em" src="https://github-readme-stats.vercel.app/api?username=alienflip)](https://github.com/alienflip"/>
+</p>
 
 ### Tech I can talk about for a few hours
 
