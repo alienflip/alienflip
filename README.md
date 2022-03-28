@@ -5,6 +5,10 @@
 > what am I [currently learning](https://www.youtube.com/watch?v=j5a0jTc9S10&ab_channel=YourUncleMoe)?
 
  [![github stats](https://github-readme-stats.vercel.app/api?username=alienflip)](https://github.com/alienflip)
+ 
+<p align="center">
+  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alienflip&theme=github_dark" />
+</p>
 
 ### Tech I can talk about for a few hours
 
