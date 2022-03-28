@@ -17,14 +17,12 @@ Tech I can talk about for a few hours
 </p>
 
 <p align="center">
-  <img width="50em" src="https://img.shields.io/badge/unity-grey.svg?style=for-the-badge&logo=unity&logoColor=white" />
-  <img width="50em" src="https://img.shields.io/badge/wolfram-red.svg?style=for-the-badge&logo=wolfram&logoColor=%23F7DF1E" />
-  <img width="50em" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img width="50em" src="https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img width="50em" src="https://img.shields.io/badge/Arduino-%23007ACC.svg?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img width="50em" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img width="50em" src="https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=C++&logoColor=white" />
-  <img width="50em" src="https://img.shields.io/badge/teal-green.svg?style=for-the-badge&logo=teal&logoColor=white" />
+  <img width="100em" src="https://img.shields.io/badge/unity-grey.svg?style=for-the-badge&logo=unity&logoColor=white" />
+  <img width="100em" src="https://img.shields.io/badge/wolfram-red.svg?style=for-the-badge&logo=wolfram&logoColor=%23F7DF1E" />
+  <img width="100em" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img width="100em" src="https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img width="100em" src="https://img.shields.io/badge/Arduino-%23007ACC.svg?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img width="100em" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
 <p align="center">
@@ -36,7 +34,7 @@ Tech I wish I could talk about for a few hours
 </p>
 
 <p align="center">
-  <img width="50em" src="https://img.shields.io/badge/Rust-brown.svg?style=for-the-badge&logo=rust&logoColor=%23F7DF1E" />
+  <img width="100em" src="https://img.shields.io/badge/Rust-brown.svg?style=for-the-badge&logo=rust&logoColor=%23F7DF1E" />
 </p>
 
 <p align="center">
