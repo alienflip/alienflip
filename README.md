@@ -1,6 +1,6 @@
-
- ## Hi there, welcome 👋
-
+<h align="center">
+  Hi there, welcome 👋
+</h>
 
 > what am I [currently learning](https://www.youtube.com/watch?v=j5a0jTc9S10&ab_channel=YourUncleMoe)?
 
