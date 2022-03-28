@@ -25,6 +25,6 @@
 
 > [build a (virtual) computer](https://www.nand2tetris.org/) 
 
-> [create A doo-dad](https://www.sparkfun.com/)
+> [create A doo-dad](https://learn.sparkfun.com/?_ga=2.92506973.1781630498.1648479078-1801607459.1648341636)
 
 > [hack a thing](https://overthewire.org/wargames/)
