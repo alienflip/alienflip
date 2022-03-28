@@ -18,7 +18,6 @@
 ### Tech I wish I could talk about for a few hours
 
 ![Rust](https://img.shields.io/badge/Rust-brown.svg?style=for-the-badge&logo=rust&logoColor=%23F7DF1E)
-![Kubernetes](https://img.shields.io/badge/kubernetes-green.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Fun learning materials
 
@@ -30,4 +29,4 @@
 
 > [long term vision](https://www.youtube.com/watch?v=j5a0jTc9S10&ab_channel=YourUncleMoe)
 
-👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽👽
+👽👽👽
