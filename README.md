@@ -15,7 +15,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-%23007ACC.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-%23000000.svg?style=for-the-badge&logo=C++&logoColor=white)
-![PyTeal](https://img.shields.io/badge/teal-%23000000.svg?style=for-the-badge&logo=teal&logoColor=white)
+![PyTeal](https://img.shields.io/badge/teal-green.svg?style=for-the-badge&logo=teal&logoColor=white)
 
 ### Tech I wish I could talk about for a few hours
 
