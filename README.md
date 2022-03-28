@@ -12,7 +12,9 @@
 👽     
 </p>
 
-### Tech I can talk about for a few hours
+<p align="center">
+Tech I can talk about for a few hours   
+</p>
 
 ![Unity](https://img.shields.io/badge/unity-grey.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Wolfram Language](https://img.shields.io/badge/wolfram-red.svg?style=for-the-badge&logo=wolfram&logoColor=%23F7DF1E)
@@ -27,7 +29,9 @@
 👽     
 </p>
 
-### Tech I wish I could talk about for a few hours
+<p align="center">
+Tech I wish I could talk about for a few hours
+</p>
 
 ![Rust](https://img.shields.io/badge/Rust-brown.svg?style=for-the-badge&logo=rust&logoColor=%23F7DF1E)
 
@@ -35,7 +39,9 @@
 👽     
 </p>
 
-### Fun learning materials
+<p align="center">
+Fun learning materials   
+</p>
 
 > [build a (virtual) computer](https://www.nand2tetris.org/) 
 
