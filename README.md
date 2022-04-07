@@ -8,7 +8,7 @@
 
 <p align="center">
   <big>
-    Dangerous with ...
+    E2E products using ...
   </big>
 </p>
 
