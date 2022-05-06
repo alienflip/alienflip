@@ -8,7 +8,7 @@
 
 <p align="center">
   <big>
-    E2E products using ...
+    E2E products using:
   </big>
 </p>
 
@@ -23,7 +23,7 @@
 
 <p align="center">
     <big>
-      Not yet literate with ...
+      Not yet literate with:
     </big>
 </p>
 
@@ -45,7 +45,7 @@
 
 <p align="center">
   <big>
-    Featured work
+    Featured by:
   </big>
 </p>
 
