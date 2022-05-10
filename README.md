@@ -23,7 +23,7 @@
 
 <p align="center">
     <big>
-      Not yet literate with:
+      Messing around with:
     </big>
 </p>
 
