@@ -22,16 +22,6 @@
 </p>
 
 <p align="center">
-    <big>
-      Messing around with:
-    </big>
-</p>
-
-<p align="center">
-  <img width="100em" src="https://img.shields.io/badge/Rust-brown.svg?style=for-the-badge&logo=rust&logoColor=%23F7DF1E" />
-</p>
-
-<p align="center">
   <big>
     Fun learning materials   
   </big>
