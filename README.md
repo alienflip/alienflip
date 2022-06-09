@@ -45,6 +45,10 @@
   <a href="https://zku.one/final-project-submissions">Harmony zkDAO</> <br>
 </p>
 
+<p align="center">
+  <a href="https://twitter.com/Algorand/status/1534626377630208001/photo/1">Algorand</> <br>
+</p>
+
 <a align="center" href="https://www.youtube.com/watch?v=j5a0jTc9S10&ab_channel=YourUncleMoe">
 👽     
 </a>
