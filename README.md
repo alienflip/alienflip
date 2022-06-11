@@ -1,5 +1,5 @@
 <p align="center">
-  So, you've wandered into my lair . . . 
+  So,-you've-wandered-into-my-lair . . . 
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <p align="center">
   <big>
-    E2E products using:
+    E2E-products-using:
   </big>
 </p>
 
@@ -25,7 +25,7 @@
 
 <p align="center">
   <big>
-    Fun recommended learning materials:
+    Fun-recommended-learning-materials:
   </big>
 </p>
 
@@ -37,7 +37,7 @@
 
 <p align="center">
   <big>
-    Some shameless self-promo:
+    Shameless-self-promo:
   </big>
 </p>
 
