@@ -30,9 +30,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.nand2tetris.org/">build a (virtual) computer</> <br>
-  <a href="https://learn.sparkfun.com/?_ga=2.92506973.1781630498.1648479078-1801607459.1648341636">create a doo-dad</> </br>
-  <a href="https://overthewire.org/wargames/">hack a thing</a> </br>
+  <a href="https://www.nand2tetris.org/">build-a-(virtual)-computer</> <br>
+  <a href="https://learn.sparkfun.com/?_ga=2.92506973.1781630498.1648479078-1801607459.1648341636">create-a-doo-dad</> </br>
+  <a href="https://overthewire.org/wargames/">hack-a-thing</a> </br>
 </p>
 
 <p align="center">
