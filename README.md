@@ -25,7 +25,7 @@
 
 <p align="center">
   <big>
-    Fun recommended learning materials   
+    Fun recommended learning materials:
   </big>
 </p>
 
@@ -37,7 +37,7 @@
 
 <p align="center">
   <big>
-    Featured by:
+    Some shameless self-promo:
   </big>
 </p>
 
