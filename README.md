@@ -25,7 +25,7 @@
 
 <p align="center">
   <big>
-    Fun learning materials   
+    Fun recommended learning materials   
   </big>
 </p>
 
