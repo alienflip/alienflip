@@ -37,7 +37,7 @@
 
 <p align="center">
   <big>
-    Shameless-self-promo:
+    Featured-by:
   </big>
 </p>
 
