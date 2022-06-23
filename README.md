@@ -13,7 +13,6 @@
 </p>
 
 <p align="center">
-  <img width="100em" src="https://img.shields.io/badge/c/c++-black.svg?style=for-the-badge&logo=circom&logoColor=ffdd54" />
   <img width="100em" src="https://img.shields.io/badge/unity-grey.svg?style=for-the-badge&logo=unity&logoColor=white" />
   <img width="100em" src="https://img.shields.io/badge/wolfram-red.svg?style=for-the-badge&logo=wolfram&logoColor=%23F7DF1E" />
   <img width="100em" src="https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
