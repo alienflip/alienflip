@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <a href="https://zku.one/meet-the-tas">Harmony-zkDAO</><br>
+  <a href="https://zku.one/final-project-submissions">Harmony-zkDAO</><br>
 </p>
 
 <p align="center">
