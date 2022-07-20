@@ -34,20 +34,6 @@
   <a href="https://overthewire.org/wargames/">Hack-a-thing</a> </br>
 </p>
 
-<p align="center">
-  <big>
-    Featured-by:
-  </big>
-</p>
-
-<p align="center">
-  <a href="https://zku.one/final-project-submissions">Harmony-zkDAO</><br>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=w-mOFqMcvdE&t=22080s">Algorand</><br>
-</p>
-
 <a align="center" href="https://www.youtube.com/watch?v=j5a0jTc9S10&ab_channel=YourUncleMoe">
 👽     
 </a>
