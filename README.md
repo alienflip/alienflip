@@ -2,7 +2,6 @@
   So-you've-wandered-into-my-lair... 
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
 <p align="center">
   <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alienflip&theme=github_dark" />
 </p>
