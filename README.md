@@ -4,13 +4,13 @@
 </p>
 -->
 
-<h3 align="center">
-  Welcome to my OS page!
-</h3>
-
 <h2 align="center">
-  Fun-recommended-learning-materials:
+  Welcome to my OS page!
 </h2>
+
+<h3 align="center">
+  Fun-recommended-learning-materials:
+</h3>
 
 <p align="center">
   <a href="https://www.nand2tetris.org/">Build-a-(virtual)-computer</> <br>
@@ -18,9 +18,9 @@
   <a href="https://overthewire.org/wargames/">Hack-a-thing</a> </br>
 </p>
 
-<h2 align="center">
+<h3 align="center">
   Support my open-source contributions!:
-</h2>
+</h3>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/alienflip">
