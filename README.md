@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="center">
-  Support my open-source contributions!:
+  Support my open-source contributions:
 </h3>
 
 <p align="center">
