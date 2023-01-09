@@ -34,6 +34,8 @@
   </a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alienflip" alt="alienflip" /> </p>
+
 <p align="center">
   <a align="center" href="https://www.youtube.com/watch?v=j5a0jTc9S10&ab_channel=YourUncleMoe">
   👽     
