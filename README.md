@@ -36,5 +36,14 @@
   </a>
 </p>
 
-<h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/alienflip"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alienflip" /></a></p><br><br>
+<p align="center">
+  <big>
+    Support my open-source contributions!:
+  </big>
+</p>
+
+<p>
+  <a href="https://www.buymeacoffee.com/alienflip">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alienflip" />
+  </a>
+</p>
