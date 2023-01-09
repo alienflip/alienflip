@@ -9,7 +9,7 @@
 </h2>
 
 <h3 align="center">
-  Fun-recommended-learning-materials:
+  Fun-learning-materials:
 </h3>
 
 <p align="center">
