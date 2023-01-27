@@ -36,11 +36,17 @@
 </p>
 
 
-<h3 align="center">Read my articles:</h3>
+<h3 align="center">Read my thoughts:</h3>
 
 <p align="center">
 <a href="https://medium.com/@alienflipsf" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alienflipsf" height="30" width="40" />
+  </a>
+</p>
+
+<p align="center">
+<a href="https://lenster.xyz/u/kingzeus" target="blank">
+  <img align="center" src="https://www.lensfrens.xyz/favicon.ico" alt="@alienflipsf" height="30" width="40" />
   </a>
 </p>
 
