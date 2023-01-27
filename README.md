@@ -45,8 +45,7 @@
 
   <a href="https://lenster.xyz/u/kingzeus" target="blank">
     <img align="center" src="https://lenster.xyz/apple-touch-icon.png" alt="@alienflipsf" height="30" width="40" />
-    <img align="center" src="" alt="@alienflipsf" height="30" width="40" />
-    </a>
+  </a>
 </p>
 
 <h3 align="center">Support my OS contributions here:</h3>
