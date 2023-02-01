@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h3 align="center">Support my OS contributions here:</h3>
+<h3 align="center">Support my OS contributions:</h3>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/alienflip"> 
