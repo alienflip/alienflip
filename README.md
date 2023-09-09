@@ -26,7 +26,7 @@
 <h3 align="center">Migration 🐘 🐾 🐘</h3>
 
 <p align="center">
-Keep an eye here for where I will migrate and continue building from...
+Keep an eye here too see where I will migrate to and continue building from...
 </p>
 
 <br><br>
