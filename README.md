@@ -26,7 +26,9 @@
 <h3 align="center">Migration 🐘 🐾 🐘</h3>
 
 <p align="center">
-Keep an eye here too see where I will migrate to and continue building from...
+  <a href="https://substack.com/@alienflip"> 
+  <img align="center" src="https://substackcdn.com/icons/substack/favicon.ico" height="50" width="210" alt="alienflip" />
+  </a>
 </p>
 
 <br><br>
