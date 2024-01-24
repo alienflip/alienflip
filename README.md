@@ -23,12 +23,10 @@
   </a>
 </p>
 
-<h3 align="center">Migration 🐘 🐾 🐘</h3>
-
-<p align="center">
+<h3 align="center">
   <a href="https://substack.com/@alienflip"> 
-  <img align="center" src="https://substackcdn.com/icons/substack/favicon.ico" height="50" width="210" alt="alienflip" />
+  🐘 🐾 Migration 🐾 🐘
   </a>
-</p>
+</h3>
 
 <br><br>
