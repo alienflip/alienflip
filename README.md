@@ -23,7 +23,7 @@
 
 <h3 align="center">
   <a href="https://substack.com/@alienflip"> 
-  🐘 🐾 Migration 🐾 🐘
+  🐘 🐾 Substack Migration 🐾 🐘
   </a>
 </h3>
 
