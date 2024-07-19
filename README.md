@@ -16,10 +16,10 @@
   
 </p>
 
-<h3 align="center">
+<p align="center">
   <a href="https://substack.com/@alienflip"> 
   🐘 🐾 Substack Migration 🐾 🐘
   </a>
-</h3>
+</p>
 
 <br><br>
