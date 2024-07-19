@@ -1,6 +1,4 @@
-<h2 align="center">Welcome to my OS page!</h2>
-
-<h3 align="center">Read my thoughts:</h3>
+<h3 align="center">Thoughts on Paper:</h3>
 
 <p align="center">
   <a href="https://medium.com/@alienflipsf" target="blank">
