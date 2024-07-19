@@ -1,4 +1,4 @@
-<h3 align="center">Thoughts on Paper:</h3>
+<h3 align="center">Thoughts on Paper</h3>
 
 <p align="center">
   <a href="https://medium.com/@alienflipsf" target="blank">
