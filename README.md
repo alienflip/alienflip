@@ -1,4 +1,4 @@
-<h3 align="center">Thoughts on Paper</h3>
+<h3 align="center">Content</h3>
 
 <p align="center">
   
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://matchahack.com/"> 
-  🐘 🐾 Hardware 🐾 🐘
+  ༼ つ ◕_◕ ༽つ
   </a>
 </p>
 
