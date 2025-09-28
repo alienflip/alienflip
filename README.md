@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://substack.com/@alienflip](https://matchahack.com/)"> 
+  <a href="https://matchahack.com/"> 
   🐘 🐾 Hardware 🐾 🐘
   </a>
 </p>
