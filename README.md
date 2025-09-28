@@ -1,4 +1,3 @@
-<h3 align="center">Content</h3>
 
 <p align="center">
   
