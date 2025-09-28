@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://substack.com/@alienflip"> 
-  🐘 🐾 Substack Notes 🐾 🐘
+  <a href="[https://substack.com/@alienflip](https://matchahack.com/)"> 
+  🐘 🐾 Hardware 🐾 🐘
   </a>
 </p>
 
